@@ -1,4 +1,4 @@
-# Analise de Extratom - Bradesco
+# Analise de Extrato - Bradesco
 Utilizando Qlik Sense Desktop
 
 Analise do arquivo csv exportado como extrato por periodo do internet banking do Bradesco.
