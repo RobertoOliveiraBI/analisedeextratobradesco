@@ -15,13 +15,13 @@ Analise do arquivo csv exportado como extrato por periodo do internet banking do
 
 ![Exportar](https://github.com/RobertoOliveiraBI/analisedeextratobradesco/blob/master/exportar.PNG)
 
-# Visões Disponíveis
+### Visões Disponíveis
 
 1. Visão Geral
 2. Analise Temporal
 3. Analise Detalhe
 
-# Indicadores Disponíveis
+### Indicadores Disponíveis
 
 1. Total de créditos
 2. Total de Débitos
@@ -29,5 +29,5 @@ Analise do arquivo csv exportado como extrato por periodo do internet banking do
 4. Periodo Exportado
 5. Saldo
 
-# Imagens do aplicativo
+### Imagens do aplicativo
 
