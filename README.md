@@ -31,3 +31,5 @@ Analise do arquivo csv exportado como extrato por periodo do internet banking do
 
 ### Imagens do aplicativo
 
+![Animação](https://github.com/RobertoOliveiraBI/analisedeextratobradesco/blob/master/animação.gif)
+
