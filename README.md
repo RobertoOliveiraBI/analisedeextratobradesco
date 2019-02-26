@@ -2,6 +2,7 @@
 ## Utilizando Qlik Sense Desktop
 
 Analise do arquivo csv exportado como extrato por periodo do internet banking do Bradesco para pessoas fisicas.
+
 *o arquivo é diferente para pessoas juridicas.*
 
 1. Acesse seu internet banking
